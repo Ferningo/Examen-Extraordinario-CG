@@ -1,2 +1,1 @@
-# Examen-Extraordinario-CG
-Proyecto de animacion para examen
+# Los pasos de instalacion se encuentran en el archivo "Documentacion.pdf"
