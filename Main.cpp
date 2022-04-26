@@ -1,4 +1,4 @@
-
+//Alumno: Fernandez Mora Jose Enrique
 
 #include <glad/glad.h>
 #include <GLFW/glfw3.h>
